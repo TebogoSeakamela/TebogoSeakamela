@@ -1,16 +1,23 @@
-## Hi there 👋
+## About Me
+  I am a finance professional with a foundation in accounting and financial analysis, currently transitioning into data analytics within financial services. 
 
-<!--
-**TebogoSeakamela/TebogoSeakamela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  My background in finance and control environments has strengthened my understanding of data integrity, data validation, and structured financial data analysis. I am expanding this foundation through SQL driven
+  data analysis and Power BI dashboard development. 
 
-Here are some ideas to get you started:
+  My focus is on applying data analytics to support decision-making, portfolio monitoring and performance analysis.
+  
+## Professional Foundation
+  Financial Analysis
+  Understanding structured financial datasets
+  Exposure to control environments and data validation
+  Business oriented performance metrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+  Advanced Microsoft Excel ( Power Query, Pivot tables0
+  SQL (data cleaning, data aggregation, segmentation)
+  Power BI (dashboard development and portfolio monitoring)
+  SAP ERP System
+
+## Career Direction
+  I am actively building technical depth in data analytics while leveraging my finance industry expertise, with long interest in financial service analytics, investment management analysis and environments that
+  encourage data-driven decisions.

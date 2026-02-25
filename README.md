@@ -13,7 +13,7 @@
   Business oriented performance metrics
 
 ## Technical Skills
-  Advanced Microsoft Excel ( Power Query, Pivot tables0
+  Advanced Microsoft Excel ( Power Query, Pivot tables)
   SQL (data cleaning, data aggregation, segmentation)
   Power BI (dashboard development and portfolio monitoring)
   SAP ERP System
